@@ -58,7 +58,7 @@ From your command line, clone and run developer-portolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/1hanzla100/developer-portfolio.git
+$ git clone https://github.com/Kunalsonar007/Portfolio-Master.git
 
 # Go into the repository
 $ cd developer-portfolio
@@ -106,7 +106,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **Kunal Sonar**
 
 -   Website: https://hanzla.netlify.app
 -   Twitter: [@1hanzla100](https://twitter.com/1hanzla100)
