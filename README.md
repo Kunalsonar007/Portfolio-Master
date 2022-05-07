@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
+    <img src="https://i.ibb.co/6R29x3S/portfolio.png" width="1000px"></img>
   </kbd>
 </p>
 
