@@ -9,7 +9,7 @@
   </kbd>
 </p>
 
-### To view a live example, **[click here](https://developer-portfolio-1hanzla100.vercel.app/)**.
+### To view a live example, **[click here](https://kunalsonar007.netlify.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
@@ -108,7 +108,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 👤 **Kunal Sonar**
 
--   Website: https://hanzla.netlify.app
+-   Website: https://kunalsonar007.netlify.app/
 -   Twitter: [@Kunalsonar007](https://twitter.com/Kunalsonar007)
 -   Github: [@Kunalsonar007](https://github.com/Kunalsonar007)
 -   LinkedIn: [@Kunal Sonar](https://www.linkedin.com/in/kunal-sonar-133108227/)
