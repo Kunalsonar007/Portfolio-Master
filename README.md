@@ -109,9 +109,10 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 👤 **Kunal Sonar**
 
 -   Website: https://hanzla.netlify.app
--   Twitter: [@1hanzla100](https://twitter.com/1hanzla100)
--   Github: [@1hanzla100](https://github.com/1hanzla100)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
+-   Twitter: [@Kunalsonar007](https://twitter.com/Kunalsonar007)
+-   Github: [@Kunalsonar007](https://github.com/Kunalsonar007)
+-   LinkedIn: [@Kunal Sonar](https://www.linkedin.com/in/kunal-sonar-133108227/)
+-   Instagram: [@kunal_sonar_19](https://www.instagram.com/kunal_sonar_19/)
 
 ## Show your support
 
